@@ -14,12 +14,14 @@ Generate some interesting complex test scenarios based on the described resource
 Include the scenarios below described in a given-when-then format:
 
 Scenario:
-Given a Parabank user with and existing account,
+Given a Parabank user with an existing account,
 when a user logs into Parabank, and deposits some amount into an account,
 then the account will have the deposited amount.
 
 Scenario:
-Given a Parabank user with and existing account,
+Given a Parabank user with an existing account,
 when a user logs into Parabank, and pays a bill
 then an account will be missing the amount paid in the bill.
+
+Scenario
 ```
