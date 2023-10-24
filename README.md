@@ -23,5 +23,4 @@ Given a Parabank user with an existing account,
 when a user logs into Parabank, and pays a bill
 then an account will be missing the amount paid in the bill.
 
-Scenario
 ```
