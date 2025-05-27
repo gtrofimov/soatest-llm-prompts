@@ -2,12 +2,14 @@
 Sample prompts for Parasoft SOAtest Open AI feature
 
 # Test scenario craeation prompts
+Natural language example
 ```
 You are a software tester validating a standard Banking application called Parabank.
 Generate some interesting complex test scenarios based on the described resources.
 Assume the customer data and account data already exists.
 For each scenario, include login steps, end to end operations, and additional steps at the end of the scenario to validate the outcomes.
 ```
+BDD example
 ```
 You are a software tester validating a standard Banking application.
 Generate some interesting complex test scenarios based on the described resources.
